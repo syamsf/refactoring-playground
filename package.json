@@ -1,0 +1,22 @@
+{
+  "name": "refactoring-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "printInvoices.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syamsf/refactoring-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syamsf/refactoring-playground/issues"
+  },
+  "homepage": "https://github.com/syamsf/refactoring-playground#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
